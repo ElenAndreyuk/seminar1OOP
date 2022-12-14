@@ -25,7 +25,7 @@ public class Product {
     }
 
     public String toString(){
-        return String.format("name = %s, price = %f ", name, price);
+        return String.format("name = %s, price = %f", name, price);
     }
 
 
